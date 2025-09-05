@@ -177,28 +177,28 @@ export default function HomePage() {
       title: "币圈百倍收益的秘诀！干货！",
       description: "想在币圈抓住百倍收益？核心不是频繁操作，而是：突破阶段性高点才出手，坚守大趋势，严格止损保护本金，科学仓位管理。70%长期现货，30%高风险博弈，结合前沿新闻，少操作、多等待，把握高盈亏比机会，才有可能真正赢在长期。",
       date: "2025/8/27",
-      thumbnail: "https://i.meee.com.tw/oh7F5i6.png",
+      thumbnail: "/百倍收益的秘诀.png",
     },
     {
       href: "https://mp.weixin.qq.com/s/AEh4y2zfRpkx4yQofddKSg",
       title: "Python量化交易系统搭建：从零到实盘的5模块架构",
       description: "从数据获取到实盘执行，一个完整的量化交易系统由5个核心模块构成：数据获取、策略逻辑、回测系统、交易执行、主控程序。本篇文章提供循序渐进的开发路线图，涵盖API调用、风险控制、实盘安全等关键实践，帮助你从零搭建属于自己的量化系统。",
       date: "2025/8/16",
-      thumbnail: "https://i.meee.com.tw/2Df39q9.png",
+      thumbnail: "/Python量化交易系统五大模块构建.png",
     },
     {
       href: "https://mp.weixin.qq.com/s/7fux6TvcM_AqdRTr2KQN9Q",
       title: "币圈小白到底该如何入门量化交易？",
       description: "量化交易并不是高不可攀的秘密武器，而是一个简单的四步循环：看指标 → 找规律 → 做策略 → 测试。本篇文章为币圈新手拆解量化交易的核心思路，提供基础策略与实战建议，让你学会用理性和数据代替情绪与运气。",
       date: "2025/8/16",
-      thumbnail: "https://i.meee.com.tw/os87pq7.png",
+      thumbnail: "/币圈小白到底该如何入门量化交易.png",
     },
     {
       href: "https://mp.weixin.qq.com/s/aqU0kxvNyHlVwKdEvMEIig",
       title: "如何构建 AI Agent 的上下文工程？",
       description: "总结在构建 AI 智能体过程中的 6 项核心实践，从 KV-Cache 到外部记忆系统，为开发者提供实战经验与避坑指南。",
       date: "2025/7/21",
-      thumbnail: "https://i.meee.com.tw/hbrChGh.png",
+      thumbnail: "/ai-agent.png",
     },
   ]
 
@@ -468,7 +468,7 @@ export default function HomePage() {
                     <div className="relative">
                       <Link href="https://mp.weixin.qq.com/s/aqU0kxvNyHlVwKdEvMEIig">
                         <Image
-                          src="https://i.meee.com.tw/hbrChGh.png"
+                          src="/ai-agent.png"
                           alt="如何构建 AI Agent 的上下文工程？"
                           width={480}
                           height={270}
