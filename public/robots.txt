@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Host
+Host: https://woye.cc
+
+# Sitemaps
+Sitemap: https://woye.cc/sitemap.xml
