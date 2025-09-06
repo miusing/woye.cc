@@ -362,7 +362,7 @@ export default function HomePage() {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 p-3 bg-gradient-to-r from-indigo-50 to-purple-50 hover:from-indigo-100 hover:to-purple-100 dark:from-indigo-900/20 dark:to-purple-900/20 dark:hover:from-indigo-900/30 dark:hover:to-purple-900/30 rounded-lg transition-all group border border-indigo-200 dark:border-indigo-700"
-                    href="https://www.coinglass.com/?ref_code=ZQWGGW"
+                    href="https://www.coinglass.com/?ref_code=ZRKMBR"
                   >
                     <svg width="18" height="18" viewBox="0 0 417 417" className="flex-shrink-0">
                       <path d="M0 0 C137.61 0 275.22 0 417 0 C417 137.61 417 275.22 417 417 C279.39 417 141.78 417 0 417 C0 279.39 0 141.78 0 0 Z " fill="#000000" transform="translate(0,0)"/>
